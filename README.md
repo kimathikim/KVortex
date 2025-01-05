@@ -1,6 +1,6 @@
 # KVortex: High-Performance Distributed Key-Value Store
 
-![KVortex Logo](https://via.placeholder.com/150) <!-- Replace with your logo URL -->
+![KVortex Logo](https://raw.githubusercontent.com/kimathikim/KVortex/refs/heads/main/kvotex.webp
 
 KVortex is a **distributed key-value store** built in Go, designed for **scalability, fault tolerance, and high performance**. It leverages Go's concurrency model and modern distributed systems principles to provide a reliable and efficient storage solution for modern applications.
 
